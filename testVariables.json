@@ -1,0 +1,8 @@
+{
+    "SQL_INJECTION": "insert",                 
+    "JS/HTML_INJECTION":"<script>",
+    "XPATH_INJECTION" : "following-sibling",
+    "JAVA_EXCEPTION" : "Exception in Thread"
+}
+
+
